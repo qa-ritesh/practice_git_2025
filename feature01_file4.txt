@@ -1,1 +1,6 @@
 This is feature file04
+This is git line 01
+This is git line 02
+This is git line 03
+This is git line 04
+This is git line 05
